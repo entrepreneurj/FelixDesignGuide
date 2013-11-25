@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {2.1}Futura}{}
 \contentsline {section}{\numberline {2.2}Warnock Pro}{}
 \contentsline {section}{\numberline {2.3}Jigsaw}{}
+\contentsline {chapter}{\numberline {3}Images}{}
 \contentsline {chapter}{\numberline {A}Paragraph Styles}{}
