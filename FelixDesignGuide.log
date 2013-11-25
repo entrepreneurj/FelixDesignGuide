@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.1.21)  25 NOV 2013 02:05
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.1.21)  25 NOV 2013 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -385,36 +385,6 @@ LaTeX Info: Redefining \upshape on input line 2117.
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip52
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count173
-\Gm@cntv=\count174
-\c@Gm@tempcnt=\count175
-\Gm@bindingoffset=\dimen112
-\Gm@wd@mp=\dimen113
-\Gm@odd@mp=\dimen114
-\Gm@even@mp=\dimen115
-\Gm@layoutwidth=\dimen116
-\Gm@layoutheight=\dimen117
-\Gm@layouthoffset=\dimen118
-\Gm@layoutvoffset=\dimen119
-\Gm@dimlist=\toks39
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/ntgclass/a4.sty
-Package: a4 2004/04/15 v1.2g A4 based page layout
-)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -433,22 +403,61 @@ Package graphics Info: Driver file: xetex.def on input line 91.
 File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
 
 ))
-\Gin@req@height=\dimen120
-\Gin@req@width=\dimen121
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count173
+\Gm@cntv=\count174
+\c@Gm@tempcnt=\count175
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks39
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen122
+\WF@size=\dimen123
+\c@WF@wrappedlines=\count176
+\WF@box=\box27
+\WF@everypar=\toks40
+Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
-\captionmargin=\dimen122
-\captionmargin@=\dimen123
-\captionwidth=\dimen124
-\caption@indent=\dimen125
-\caption@parindent=\dimen126
-\caption@hangindent=\dimen127
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
 )
-\c@ContinuedFloat=\count176
+\c@ContinuedFloat=\count177
+Package caption Info: wrapfig package is loaded.
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
@@ -456,37 +465,37 @@ Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 Package: `setspace' 6.7 <2000/12/01>
 ) (/usr/local/texlive/2011/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen128
-\lightrulewidth=\dimen129
-\cmidrulewidth=\dimen130
-\belowrulesep=\dimen131
-\belowbottomsep=\dimen132
-\aboverulesep=\dimen133
-\abovetopsep=\dimen134
-\cmidrulesep=\dimen135
-\cmidrulekern=\dimen136
-\defaultaddspace=\dimen137
-\@cmidla=\count177
-\@cmidlb=\count178
-\@aboverulesep=\dimen138
-\@belowrulesep=\dimen139
-\@thisruleclass=\count179
-\@lastruleclass=\count180
-\@thisrulewidth=\dimen140
+\heavyrulewidth=\dimen130
+\lightrulewidth=\dimen131
+\cmidrulewidth=\dimen132
+\belowrulesep=\dimen133
+\belowbottomsep=\dimen134
+\aboverulesep=\dimen135
+\abovetopsep=\dimen136
+\cmidrulesep=\dimen137
+\cmidrulekern=\dimen138
+\defaultaddspace=\dimen139
+\@cmidla=\count178
+\@cmidlb=\count179
+\@aboverulesep=\dimen140
+\@belowrulesep=\dimen141
+\@thisruleclass=\count180
+\@lastruleclass=\count181
+\@thisrulewidth=\dimen142
 )
 (./applekeys.sty
 Package: applekeys 2005/08/24 H.S. For inclusion of apple key graphics 
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
-\@enLab=\toks40
+\@enLab=\toks41
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2009/05/18 v2.2 Customized lists
-\enit@toks=\toks41
+\enit@toks=\toks42
 \labelindent=\skip53
-\enit@outerparindent=\dimen141
-\enitdp@desc=\count181
+\enit@outerparindent=\dimen143
+\enitdp@desc=\count182
 )
 (./FelixDesignGuide.aux)
 \openout1 = `FelixDesignGuide.aux'.
@@ -636,21 +645,23 @@ Chapter 3.
 File: ./img/shift.pdf Graphic file (type QTm)
 <use  "./img/shift.pdf" >
 File: ./img/command.pdf Graphic file (type QTm)
- <use  "./img/command.pdf" > [4
+ <use  "./img/command.pdf" >
+File: ./img/rgb-cmyk.png Graphic file (type QTm)
 
-]) (./parastyles.tex
-[5]
+<use  "./img/rgb-cmyk.png" > [4
+
+]) (./parastyles.tex [5]
 Appendix A.
 ) [6
 
 ] (./FelixDesignGuide.aux) ) 
 Here is how much of TeX's memory you used:
- 12706 strings out of 494150
- 219585 string characters out of 3152949
- 307870 words of memory out of 3000000
- 15781 multiletter control sequences out of 15000+200000
+ 12772 strings out of 494150
+ 220505 string characters out of 3152949
+ 308027 words of memory out of 3000000
+ 15841 multiletter control sequences out of 15000+200000
  10152 words of font info for 61 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 53i,8n,92p,616b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,8n,92p,616b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on FelixDesignGuide.pdf (7 pages).
