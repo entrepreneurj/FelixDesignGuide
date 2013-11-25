@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.1.21)  25 NOV 2013 01:51
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.1.21)  25 NOV 2013 02:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -636,21 +636,21 @@ Chapter 3.
 File: ./img/shift.pdf Graphic file (type QTm)
 <use  "./img/shift.pdf" >
 File: ./img/command.pdf Graphic file (type QTm)
- <use  "./img/command.pdf" >) (./parastyles.tex
-[4
+ <use  "./img/command.pdf" > [4
 
-]
+]) (./parastyles.tex
+[5]
 Appendix A.
-) [5
+) [6
 
 ] (./FelixDesignGuide.aux) ) 
 Here is how much of TeX's memory you used:
- 12704 strings out of 494150
- 219524 string characters out of 3152949
- 305870 words of memory out of 3000000
- 15780 multiletter control sequences out of 15000+200000
- 10144 words of font info for 60 fonts, out of 3000000 for 9000
+ 12706 strings out of 494150
+ 219585 string characters out of 3152949
+ 307870 words of memory out of 3000000
+ 15781 multiletter control sequences out of 15000+200000
+ 10152 words of font info for 61 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 53i,8n,92p,504b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,8n,92p,616b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on FelixDesignGuide.pdf (6 pages).
+Output written on FelixDesignGuide.pdf (7 pages).

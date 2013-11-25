@@ -6,4 +6,8 @@
 \contentsline {chapter}{\numberline {3}Images}{}
 \contentsline {section}{\numberline {3.1}Image Placement}{}
 \contentsline {section}{\numberline {3.2}Image Quality}{}
+\contentsline {section}{\numberline {3.3}Image Colour Space}{}
+\contentsline {section}{\numberline {3.4}Credits and Captions}{}
+\contentsline {subsection}{\numberline {3.4.1}Credits}{}
+\contentsline {subsection}{\numberline {3.4.2}Captions}{}
 \contentsline {chapter}{\numberline {A}Paragraph Styles}{}
