@@ -1,0 +1,77 @@
+% !TEX TS-program = xelatex
+
+\documentclass[11pt]{report} 
+\usepackage{amssymb}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage{fullpage}    
+%\usepackage{graphicx}
+%\usepackage{color}
+%\usepackage{amsmath}
+
+%\usepackage{mathtools}
+\usepackage[top=25mm,bottom=25mm,left=25mm,right=25mm]{geometry}    
+\usepackage{a4}            % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper} 
+\usepackage{graphicx}
+%\usepackage{wrapfig}
+\usepackage{caption}
+%\usepackage{float}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{applekeys}
+\usepackage{enumerate} 
+\usepackage{enumitem}
+
+
+
+%\usepackage{natbib}
+%\bibliographystyle{plainnat}
+
+\graphicspath{ {./img/} }
+
+\title{\LARGE Felix Editorial Manual}
+
+\author{Joseph Letts, Felix Editor 2013-14}
+
+\makeatletter
+\renewcommand{\@dotsep}{10000} 
+\makeatother
+
+%\renewcommand{\contentsname}{Agenda}
+\renewcommand{\arraystretch}{1.7}
+
+
+ \begin{document}
+\maketitle
+\doublespacing
+%\titlepage
+\pagenumbering{gobble}
+\tableofcontents
+\singlespacing
+%\addtocontents{toc}{\protect\thispagestyle{empty}}
+\cleardoublepage %start new page
+% \setcounter{page}{1}
+
+
+\input{introduction}
+
+\appendix
+\input{parastyles}
+
+
+
+
+
+
+
+ 
+
+
+% \input{move}
+
+% \input{conclusion}
+
+%\printbibliography
+%\bibliography{bibliography}
+\end{document}
